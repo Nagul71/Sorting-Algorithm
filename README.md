@@ -61,8 +61,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](/o1.png)
-![output](/t2.png)
+![output](/ee.png)
+![output](/ww.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
